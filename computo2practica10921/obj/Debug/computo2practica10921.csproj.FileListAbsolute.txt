@@ -1,0 +1,10 @@
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\bin\Debug\computo2practica10921.exe.config
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\bin\Debug\computo2practica10921.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\bin\Debug\computo2practica10921.pdb
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.Form1.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\computo2practica10921\computo2practica10921\obj\Debug\computo2practica10921.pdb
